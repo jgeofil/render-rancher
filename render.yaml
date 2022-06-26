@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: render-subnet-router
+    name: render-rancher
     env: docker
     region: frankfurt
     plan: starter
